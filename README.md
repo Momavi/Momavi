@@ -17,6 +17,8 @@
 ### Glad to see you here!  
 I'm front end developer 22 years old
 🔭 I am currently looking for a job as a Front End Developer
+🪖 I've been in the army for the last year, because of that there is no activity for the last year
+👨‍💻 Before that, I worked as a frontend developer for 3️⃣ years 
 
 📫 How to reach me <br>
 Email: erbiswork@gmail.com <br>
